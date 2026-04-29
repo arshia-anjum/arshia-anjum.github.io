@@ -51,9 +51,9 @@
 }
 
 .sidebar-nav > .sidebar-brand {
-  height: 65px;
-  line-height: 60px;
-  font-size: 18px;
+  height: auto !important;
+  line-height: normal !important;
+  padding: 0 !important;
 }
 
 .sidebar-nav > .sidebar-brand a {
